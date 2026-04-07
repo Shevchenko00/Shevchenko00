@@ -7,22 +7,14 @@ I build web applications with a focus on backend logic, API development, and cle
 ---
 
 
-## 📚 Currently Learning
+## Top Languages
 
-- Full-Stack architecture  
-- Design patterns  
-- Scalable application development  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shevchenko00&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🌍 Languages
 
-- German — B1 (working towards B2)  
-- English — A2  
-- Ukrainian - Native  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleksandr-shevchenko-0b333a311/) 
 
 ## 💻 Tech Stack:
   ### Backend
@@ -38,6 +30,10 @@ I build web applications with a focus on backend logic, API development, and cle
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ### Other
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+  
+---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oleksandr-shevchenko-0b333a311/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
