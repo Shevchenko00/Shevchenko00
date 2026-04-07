@@ -2,18 +2,7 @@
 
 Junior Full-Stack Developer (Python / React)
 
-I build web applications with a focus on backend logic, API development, and clean user interfaces.
-
 ---
-
-
-## Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shevchenko00&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-
 
 
 ## 💻 Tech Stack:
